@@ -1,5 +1,5 @@
 ﻿using 虾圤.系统包;
-using 虾圤核心包.集合包.通用包;
+using 虾圤.集合包.通用包;
 
 namespace 案例
 {

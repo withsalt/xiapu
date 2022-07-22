@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace 虾圤核心包.集合包.通用包
+namespace 虾圤.集合包.通用包
 {
     public class 列表<T> : List<T>
     {
