@@ -60,12 +60,9 @@ namespace 案例
 </details>
 
 ### 如何使用  
-1. 下载全宇宙最牛逼IDE
-https://code.visualstudio.com/
-
-2.下载此项目，然后拖到全宇宙最牛逼的IDE中
-
-3. 开始装逼
+1. 下载全宇宙最牛逼IDE，https://code.visualstudio.com/    
+2. 下载此项目，然后拖到全宇宙最牛逼的IDE中  
+3. 开始装逼  
 
 
 <br ><br ><br ><br ><br ><br ><br ><br ><br ><br ><br ><br ><br ><br ><br ><br ><br ><br ><br ><br ><br ><br ><br ><br ><br ><br ><br ><br ><br >
