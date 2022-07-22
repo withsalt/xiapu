@@ -1,12 +1,10 @@
 
 # 虾圤中文编程语言
 
-
-## 啊！！！我是友军！！！
-
 ### 特色
-
 **虾圤，第一款开源、跨平台、高性能的中文编程语言！**  
+[![](https://raw.githubusercontent.com/withsalt/xiapu/main/docs/img/2.jpg)](https://raw.githubusercontent.com/withsalt/xiapu/main/docs/img/2.jpg)  
+
 
 ### 案例  
 ```
@@ -60,3 +58,10 @@ namespace 案例
 |volatile|while|\-|\-|\-|\-|\-|
 
 </details>
+
+
+<br ><br ><br ><br ><br ><br ><br ><br ><br ><br ><br ><br ><br ><br ><br ><br ><br ><br ><br ><br ><br ><br ><br ><br ><br ><br ><br ><br ><br >
+<br ><br ><br ><br ><br ><br ><br ><br ><br ><br ><br ><br ><br ><br ><br ><br ><br ><br ><br ><br ><br ><br ><br ><br ><br ><br ><br ><br ><br >
+## 啊！！！我是友军！！！
+PS:本语言仅供娱乐~~  
+[![](https://raw.githubusercontent.com/withsalt/xiapu/main/docs/img/1.png)](https://raw.githubusercontent.com/withsalt/xiapu/main/docs/img/1.png)
