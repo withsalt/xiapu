@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "虾圤核心包", "虾圤\虾圤核心包.csproj", "{0040DAE3-6FA3-422C-A96C-4DE63C189B02}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "案例", "案例\案例.csproj", "{146C2175-A0FF-42DA-B0FF-9EED3BA53101}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0040DAE3-6FA3-422C-A96C-4DE63C189B02}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0040DAE3-6FA3-422C-A96C-4DE63C189B02}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0040DAE3-6FA3-422C-A96C-4DE63C189B02}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0040DAE3-6FA3-422C-A96C-4DE63C189B02}.Release|Any CPU.Build.0 = Release|Any CPU
+		{146C2175-A0FF-42DA-B0FF-9EED3BA53101}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{146C2175-A0FF-42DA-B0FF-9EED3BA53101}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{146C2175-A0FF-42DA-B0FF-9EED3BA53101}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{146C2175-A0FF-42DA-B0FF-9EED3BA53101}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DE062712-0F8A-4766-A3FD-A58FEE4858B2}
+	EndGlobalSection
+EndGlobal
